@@ -1,3 +1,5 @@
+
+
 let equipment = [];
 
 let inventory = [];
